@@ -38,13 +38,13 @@ Doc:
 -L1_SplitBregmanIteration.m : performs the recovery of a sparse signal affected by a known linear operator
 
 2D:
--ATV_NB_Deconvolution.m : performs the Nonblind Anisotropic Total Variation Deconvolution
--ATV_ROF.m : performs the Anisotropic Total Variation Denoising
--ITV_ROF.m : performs the Isotropic Total Variation Denoising
--ITV_NB_Deconvolution.m : performs the Nonblind Isotropic Total Variation Deconvolution
--Curvelet_NB_Deconvolution.m : performs the Nonblind Deconvolution based on Curvelet sparsity
--Framelet_NB_Deconvolution.m : performs the Nonblind Deconvolution based on Framelet sparsity (Analysis approach)
--Framelet_NB_Deconvolution2.m : performs the Nonblind Deconvolution based on Framelet sparsity (Synthesis approach)
+- ATV_NB_Deconvolution.m : performs the Nonblind Anisotropic Total Variation Deconvolution
+- ATV_ROF.m : performs the Anisotropic Total Variation Denoising
+- ITV_ROF.m : performs the Isotropic Total Variation Denoising
+- ITV_NB_Deconvolution.m : performs the Nonblind Isotropic Total Variation Deconvolution
+- Curvelet_NB_Deconvolution.m : performs the Nonblind Deconvolution based on Curvelet sparsity
+- Framelet_NB_Deconvolution.m : performs the Nonblind Deconvolution based on Framelet sparsity (Analysis approach)
+- Framelet_NB_Deconvolution2.m : performs the Nonblind Deconvolution based on Framelet sparsity (Synthesis approach)
 
 3D:
 -ATV_NB_Deconvolution_3D.m: performs the Nonblind Anisotropic Total Variation Deconvolution
