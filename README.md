@@ -35,7 +35,7 @@ Doc:
 - BregmanCookbook.pdf
 
 1D:
--L1_SplitBregmanIteration.m : performs the recovery of a sparse signal affected by a known linear operator
+- L1_SplitBregmanIteration.m : performs the recovery of a sparse signal affected by a known linear operator
 
 2D:
 - ATV_NB_Deconvolution.m : performs the Nonblind Anisotropic Total Variation Deconvolution
@@ -47,26 +47,26 @@ Doc:
 - Framelet_NB_Deconvolution2.m : performs the Nonblind Deconvolution based on Framelet sparsity (Synthesis approach)
 
 3D:
--ATV_NB_Deconvolution_3D.m: performs the Nonblind Anisotropic Total Variation Deconvolution
--ITV_NB_Deconvolution_3D.m: performs the Nonblind Isotropic Total Variation Deconvolution
--ATV_ROF_3D.m : performs the Anisotropic Total Variation Denoising
--ITV_ROF_3D.m : performs the Isotropic Total Variation Denoising
--Curvelet_NB_Deconvolution_3D.m : performs the Nonblind Deconvolution based on Curvelet sparsity
+- ATV_NB_Deconvolution_3D.m: performs the Nonblind Anisotropic Total Variation Deconvolution
+- ITV_NB_Deconvolution_3D.m: performs the Nonblind Isotropic Total Variation Deconvolution
+- ATV_ROF_3D.m : performs the Anisotropic Total Variation Denoising
+- ITV_ROF_3D.m : performs the Isotropic Total Variation Denoising
+- Curvelet_NB_Deconvolution_3D.m : performs the Nonblind Deconvolution based on Curvelet sparsity
 
 Examples:
--lena.mat: Lena image in double format normalized between 0 and 1
--Test1D: customizable script performing a test of the 1D function
--Test2D: customizable script performing a test of the 2D functions
--Test3D: customizable script performing a test of the 3D functions
--TVG_CartoonTexture_Decomposition: function performing the TV-G cartoon+textures decomposition
+- lena.mat: Lena image in double format normalized between 0 and 1
+- Test1D: customizable script performing a test of the 1D function
+- Test2D: customizable script performing a test of the 2D functions
+- Test3D: customizable script performing a test of the 3D functions
+- TVG_CartoonTexture_Decomposition: function performing the TV-G cartoon+textures decomposition
 
 Utils:
--AddCurveletArray.m : sum the curvelet coefficients of two decomposition structures
--AddFrameletArray.m : sum the framelet coefficients of two decomposition structures
--ShrinkComplexCurvelet.m : performs the shrinkage of complex curvelet coefficients
--ShrinkCurvelet.m : performs the shrinkage of curvelet coefficients
--ShrinkFramelet.m : performs the shrinkage of framelet coefficients
--SubCurveletArray.m : substract the curvelet coefficients of two decomposition structures
--SubFrameletArray.m : substract the framelet coefficients of two decomposition structures
+- AddCurveletArray.m : sum the curvelet coefficients of two decomposition structures
+- AddFrameletArray.m : sum the framelet coefficients of two decomposition structures
+- ShrinkComplexCurvelet.m : performs the shrinkage of complex curvelet coefficients
+- ShrinkCurvelet.m : performs the shrinkage of curvelet coefficients
+- ShrinkFramelet.m : performs the shrinkage of framelet coefficients
+- SubCurveletArray.m : substract the curvelet coefficients of two decomposition structures
+- SubFrameletArray.m : substract the framelet coefficients of two decomposition structures
 
 For any questions, bugs report, suggestions, ... Feel free to contact me at jgilles@sdsu.edu
