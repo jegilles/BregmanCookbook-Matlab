@@ -20,7 +20,7 @@ unauthorized use of this software for industrial or profit-oriented
 activities is expressively prohibited.
 
 Some functions need some extra toolbox:
-- Framelet toolbox, written by Jianfeng Cai and available at http://math.ucla.edu/~jegilles
+- Framelet toolbox, written by Jianfeng Cai and available at https://jegilles.sdsu.edu/code/Framelet.zip
 - Curvelab toolbox, freely available for non-profit purposes at http://www.curvelet.org
 
 These toolbox are assumed to be installed properly on your computer (ie the corresponding
